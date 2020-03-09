@@ -1,0 +1,13 @@
+{
+  "name": "lesgo-dynamodb",
+  "version": "0.1.0",
+  "description": "Provide dynamodb ORM to lesgo framework",
+  "main": "index.js",
+  "repository": "https://github.com/zenryan/lesgo-dynamodb.git",
+  "author": "Ryan Zen <ryan@incube8.sg>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "aws-sdk": "^2.635.0"
+  }
+}
